@@ -36,7 +36,7 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
 
 <link rel="canonical" href="https://dempa-writer.com/iizukakun/">
-<link rel="amphtml" href="https://where-my-love.pages.dev/777WZ" />
+<link rel="amphtml" href="https://where-my-love.pages.dev/777wz" />
 <link rel="shortcut icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg">
 
 <style>
@@ -425,7 +425,7 @@ var googleMapsConfig = {
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://where-my-love.pages.dev/777WZ">
+        <a href="https://where-my-love.pages.dev/777wz">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg">
           download apps
         </a>
@@ -435,12 +435,12 @@ var googleMapsConfig = {
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://where-my-love.pages.dev/777WZ" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" href="https://where-my-love.pages.dev/777wz" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://where-my-love.pages.dev/777WZ" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://where-my-love.pages.dev/777wz" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                     </a>
                 </div>
@@ -451,7 +451,7 @@ var googleMapsConfig = {
       </li>
 
       <li>
-        <a href="https://where-my-love.pages.dev/777WZ">
+        <a href="https://where-my-love.pages.dev/777wz">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
           gift registry        </a>
       </li>
@@ -552,9 +552,9 @@ color:#000;
   </div>
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://where-my-love.pages.dev/777WZ"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg">LOGIN</a></li>
-      <li><a href="https://where-my-love.pages.dev/777WZ"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg">DAFTAR</a></li>
-      <li><a href="https://where-my-love.pages.dev/777WZ" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+      <li><a href="https://where-my-love.pages.dev/777wz"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg">LOGIN</a></li>
+      <li><a href="https://where-my-love.pages.dev/777wz"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg">DAFTAR</a></li>
+      <li><a href="https://where-my-love.pages.dev/777wz" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
   </div>
 </div>
@@ -1865,7 +1865,7 @@ font-size:12px;
         <div class="account-label">
             <a href="/customer/account" class="account-link">Akun Saya</a>
         </div>
-        <button><a href="https://where-my-love.pages.dev/777WZ">Masuk</a></button>
+        <button><a href="https://where-my-love.pages.dev/777wz">Masuk</a></button>
     </div>
 
 </div></div><div class="kanmo-custom-search-mc">
@@ -1982,7 +1982,7 @@ font-size:12px;
             <div class="dropdown switcher-dropdown" data-target="dropdown">
             <ul class="header links">
             <li class="link authorization-link loginRevamp" data-label="Atau">
-            <a href="https://where-my-love.pages.dev/777WZ">
+            <a href="https://where-my-love.pages.dev/777wz">
                 Masuk / buat akun            </a>
         </li>
 
@@ -2126,9 +2126,9 @@ font-size:12px;
     transition: 0.6s;
 }
 </style><div class="n-columns-2">
-            <a href="https://where-my-love.pages.dev/777WZ" rel="nofollow noreferrer"
+            <a href="https://where-my-love.pages.dev/777wz" rel="nofollow noreferrer"
                 class="login">LOGIN</a>
-            <a href="https://where-my-love.pages.dev/777WZ" rel="nofollow noreferrer"
+            <a href="https://where-my-love.pages.dev/777wz" rel="nofollow noreferrer"
                 class="register">DAFTAR</a>
         </div></div>
 <script type="text/x-magento-init">
@@ -2297,7 +2297,7 @@ font-size:12px;
     </div>
 
 </div></div><div class="kc-cashback check">
-   <a href="https://where-my-love.pages.dev/777WZ" class="kc-points-lable">
+   <a href="https://where-my-love.pages.dev/777wz" class="kc-points-lable">
       <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg" class="kcpoints-img" width="30px">
        <span>Earn <span class="price">7.000.000</span> - <span class="price">17.000.000</span> Bonus</span>
    </a>
@@ -2362,10 +2362,10 @@ font-size:12px;
                     </div>
                 </div>
                         <div class="actions">
-                <a href="https://where-my-love.pages.dev/777WZ"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #00beff, #00beff);">
+                <a href="https://where-my-love.pages.dev/777wz"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #00beff, #00beff);">
                     <span>LOGIN</span></button></a>
                 
-                    <a href="https://where-my-love.pages.dev/777WZ" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
+                    <a href="https://where-my-love.pages.dev/777wz" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
 <script type="text/x-magento-init">
     {
         "body": {
@@ -5950,8 +5950,8 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi 777WZ</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://where-my-love.pages.dev/777WZ"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://where-my-love.pages.dev/777WZ"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi 777WZ</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://where-my-love.pages.dev/777wz"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://where-my-love.pages.dev/777wz"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
 @media (min-width:768px){
@@ -6027,7 +6027,7 @@ margin:0 26px 35px;
 
 <div id="giftreg-message-pdp" style="display: none;">
 
-          <a href="https://where-my-love.pages.dev/777WZ" class="notlogingift">
+          <a href="https://where-my-love.pages.dev/777wz" class="notlogingift">
         <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
         CLAIM BONUS
       </a>
@@ -6571,27 +6571,27 @@ margin:0 26px 35px;
       </style>
      
      <div class="footer-floating-situs">
-      <a href="https://where-my-love.pages.dev/777WZ" class="footer-btn-slot promo" target="_blank"
+      <a href="https://where-my-love.pages.dev/777wz" class="footer-btn-slot promo" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg" alt="PROMOSI"> PROMO
             </a>
 
-      <a href="https://where-my-love.pages.dev/777WZ" class="footer-btn-slot login" target="_blank"
+      <a href="https://where-my-love.pages.dev/777wz" class="footer-btn-slot login" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg" alt="Login"> LOGIN
             </a>
 
-      <a href="https://where-my-love.pages.dev/777WZ" class="footer-btn-slot daftar" target="_blank"
+      <a href="https://where-my-love.pages.dev/777wz" class="footer-btn-slot daftar" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg" alt="Daftar"> DAFTAR
             </a>
 
-      <a href="https://where-my-love.pages.dev/777WZ" class="footer-btn-slot link" target="_blank"
+      <a href="https://where-my-love.pages.dev/777wz" class="footer-btn-slot link" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg" alt="Link Alternatif"> LINK ALTERNATIF
             </a>
 
-      <a href="https://where-my-love.pages.dev/777WZ" class="footer-btn-slot chat" target="_blank"
+      <a href="https://where-my-love.pages.dev/777wz" class="footer-btn-slot chat" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYGtT9L-l6w5Pp1ZilhrtFl0jx1xWg5VYDvlPKp4lPkxznRm6ROa3LwvL_KmKeV7GySB9Gucfksmq7KsgK7k8HnESUKp8r4MYcyUhwcm7TYgZyifcBl1UfaiG9lDKAx8sYzueDtSMo3W_2QV-GVc3DGl_dqYN88zjzM4UIU14v7PkR7lzMQCAYyhM1K02g/w200-h200/1%20(6).jpg" alt="Live Chat"> LIVE CHAT
             </a>
@@ -6930,8 +6930,8 @@ margin:0 26px 35px;
             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC3E9VxyHRb_0q9AgSdFTGDkRXNZ9-fiX0ggE4nDH_IkHDXqTdGLAaALRboIs5BqLlijOEMvc7xsy7FWjfCX1hdlWIH6rW3-c44cyJ8LsQwSuK0MVKe-katPwh5ERJdilZFXyb-4KJwPuduLEc5Z1HyXoBuReDTRsRwnUFTxMGi6qgu-LeJPFHxs4Zur5P/s1600/1%20(9).jpg" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://where-my-love.pages.dev/777WZ">LOGIN</a>
-                <a href="https://where-my-love.pages.dev/777WZ">DAFTAR</a>
+                <a href="https://where-my-love.pages.dev/777wz">LOGIN</a>
+                <a href="https://where-my-love.pages.dev/777wz">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
